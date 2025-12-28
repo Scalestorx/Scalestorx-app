@@ -1,1 +1,2 @@
-# Scalestorx-app
+# ScalestorX
+ScalestorX platform – work in progress.
